@@ -7,7 +7,7 @@
 - 📫 Help to reach me crown.
 
 ## Current projects: 🖥️
-👉 [MnbPub][1]📱
+[<img src="https://user-images.githubusercontent.com/92976860/200189447-685e834a-b9e6-4810-8fe1-9cc0a6229bef.png" width="120">][1]📱
 
 [1]: https://github.com/MNBWorld/MnbPub.git "MnbPub"
 <!---
